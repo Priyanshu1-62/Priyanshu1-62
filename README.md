@@ -3,6 +3,12 @@
 
 ---
 
+- 🔭 I’m currently working on **an E-commerce website**  
+- 🌱 I’m currently learning **TypeScript, Next.js, Zustand**  
+- 👯 I’m looking to collaborate on **MERN-stack projects**
+
+---
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/priyanshubariar" target="_blank">
@@ -31,11 +37,13 @@
   </a>
 </p>
 
----
+<!--
+<p align="right">
+  <img src="https://github.com/Priyanshu1-62/iNoteBook/blob/main/public/Anime_girl_finger_heart.gif?raw=true" alt="Anime girl saying Namaste" width="200"/>
+</p>
+-->
 
-- 🔭 I’m currently working on **an E-commerce website**  
-- 🌱 I’m currently learning **TypeScript, Next.js, Zustand**  
-- 👯 I’m looking to collaborate on **MERN-stack projects**
+
 
 ---
 
