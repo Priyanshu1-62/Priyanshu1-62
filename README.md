@@ -101,16 +101,15 @@
 
 ---
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=priyanshu1-62&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=priyanshu1-62&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=priyanshu1-62&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=priyanshu1-62" alt="priyanshu1-62" />
+    <img src="https://github-profile-trophy.vercel.app/?username=priyanshu1-62&theme=algolia" alt="priyanshu1-62" />
   </a>
 </p>
+
