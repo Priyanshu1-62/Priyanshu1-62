@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Priyanshu Bariar</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+<h3 align="center">Building scalable and maintainable web apps with modern tech</h3>
 
 ---
 
-- 🔭 I’m currently working on **an E-commerce website**  
+- 🔭 I’m currently working on **builing an E-commerce website**  
 - 🌱 I’m currently learning **TypeScript, Next.js, Zustand**  
 - 👯 I’m looking to collaborate on **MERN-stack projects**
 
