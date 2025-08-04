@@ -17,7 +17,7 @@
   </a>
 
   <!-- Gmail -->
-  <a href="mailto:yourmail@gmail.com" target="_blank" style="margin-right: 10px;">
+  <a href="mailto:bpriyanshu5678@gmail.com" target="_blank" style="margin-right: 10px;">
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Gmail" height="30" width="40" />
   </a>
 
