@@ -1,16 +1,6 @@
 <h1 align="center">Hi 👋, I'm Priyanshu Bariar</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=priyanshu1-62" alt="priyanshu1-62" />
-  </a>
-</p>
-
-- 🔭 I’m currently working on **an E-commerce website**  
-- 🌱 I’m currently learning **TypeScript, Next.js, Zustand**  
-- 👯 I’m looking to collaborate on **MERN-stack projects**
-
 ---
 
 <h3 align="left">Connect with me:</h3>
@@ -40,6 +30,12 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" height="30" width="40" />
   </a>
 </p>
+
+---
+
+- 🔭 I’m currently working on **an E-commerce website**  
+- 🌱 I’m currently learning **TypeScript, Next.js, Zustand**  
+- 👯 I’m looking to collaborate on **MERN-stack projects**
 
 ---
 
@@ -102,3 +98,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=priyanshu1-62&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
 
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=priyanshu1-62" alt="priyanshu1-62" />
+  </a>
+</p>
