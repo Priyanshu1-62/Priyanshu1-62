@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Priyanshu Bariar</h1>
-<h3 align="center">Building scalable and maintainable web apps with modern tech</h3>
+<h3 align="center">Full Stack Developer | Expert @Codeforces | Knight @LeetCode | 4☆ @CodeChef | NIT Silchar-23h3>
 
 ---
 
