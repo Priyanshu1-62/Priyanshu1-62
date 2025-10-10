@@ -71,10 +71,6 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <!-- Programming Languages -->
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer" style="margin: 10px 10px 0 0;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer" style="margin: 10px 10px 0 0;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
   </a>
@@ -100,6 +96,10 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
   </a>
   &nbsp;&nbsp;&nbsp;
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer" style="margin: 10px 10px 0 0;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
   <!-- Frameworks & Libraries -->
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer" style="margin: 10px 10px 0 0;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
@@ -111,6 +111,10 @@
   &nbsp;&nbsp;&nbsp;
   <a href="https://expressjs.com" target="_blank" rel="noreferrer" style="margin: 10px 10px 0 0;">
     <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" height="40"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://nodejs.org/" target="_blank" rel="noreferrer" style="margin: 10px 10px 0 0;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer" style="margin: 10px 10px 0 0;">
