@@ -15,33 +15,43 @@
   <a href="https://linkedin.com/in/priyanshubariar" target="_blank" style="margin-right: 10px;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-
+  &nbsp;&nbsp;&nbsp;
+  <!-- Naukri -->
+  <a href="https://www.naukri.com/your-profile" target="_blank" style="margin-right: 10px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/Naukri.png" alt="Naukri.com" height="30" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
   <!-- Gmail -->
   <a href="mailto:bpriyanshu5678@gmail.com" target="_blank" style="margin-right: 10px;">
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Gmail" height="30" width="40" />
   </a>
-
+  &nbsp;&nbsp;&nbsp;
   <!-- Coding Profiles -->
   <a href="https://www.leetcode.com/priyanshu1_618031" target="_blank" style="margin-right: 10px;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://codeforces.com/profile/priyanshu_1.618031" target="_blank" style="margin-right: 10px;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="30" width="40" />
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://www.codechef.com/users/priyanshu1_618" target="_blank" style="margin-right: 10px;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" height="30" width="40" />
+    <img src="https://logo.svgcdn.com/s/codechef-dark.png" alt="CodeChef" height="30" width="40" />
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://auth.geeksforgeeks.org/user/priyanshu67no/profile" target="_blank" style="margin-right: 10px;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" height="30" width="40" />
   </a>
-
+  &nbsp;&nbsp;&nbsp;
   <!-- Social Media -->
   <a href="https://fb.com/priyanshu bariar" target="_blank" style="margin-right: 10px;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://instagram.com/pr1yanshu_11" target="_blank" style="margin-right: 10px;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://www.youtube.com/c/priyanshubariar" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" />
   </a>
@@ -64,59 +74,71 @@
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer" style="margin: 10px 10px 0 0;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer" style="margin: 10px 10px 0 0;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
   </a>
-
+  &nbsp;&nbsp;&nbsp;
   <!-- Markup & Styling -->
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" style="margin: 10px 10px 0 0;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/>
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer" style="margin: 10px 10px 0 0;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40"/>
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer" style="margin: 10px 10px 0 0;">
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" style="margin: 10px 10px 0 0;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer" style="margin: 10px 10px 0 0;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
   </a>
-
+  &nbsp;&nbsp;&nbsp;
   <!-- Frameworks & Libraries -->
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer" style="margin: 10px 10px 0 0;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer" style="margin: 10px 10px 0 0;">
     <img src="https://img.icons8.com/fluency/96/000000/nextjs.png" alt="Next.js" width="40" height="40" />
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://expressjs.com" target="_blank" rel="noreferrer" style="margin: 10px 10px 0 0;">
     <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" height="40"/>
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer" style="margin: 10px 10px 0 0;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="Bootstrap" width="40" height="40"/>
   </a>
-
+  &nbsp;&nbsp;&nbsp;
   <!-- Databases -->
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer" style="margin: 10px 10px 0 0;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer" style="margin: 10px 10px 0 0;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
   </a>
-
+  &nbsp;&nbsp;&nbsp;
   <!-- Tools -->
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer" style="margin: 10px 10px 0 0;">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://postman.com" target="_blank" rel="noreferrer" style="margin: 10px 10px 0 0;">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://vitejs.dev/" target="_blank" rel="noreferrer" style="margin: 10px 10px 0 0;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vite/vite-original.svg" alt="Vite" width="40" height="40"/>
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://vercel.com/" target="_blank" rel="noreferrer" style="margin: 10px 10px 0 0;">
     <img src="https://img.shields.io/badge/Vercel-%23000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" height="40"/>
   </a>
