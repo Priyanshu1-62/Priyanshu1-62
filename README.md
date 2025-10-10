@@ -126,6 +126,14 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
   </a>
   &nbsp;&nbsp;&nbsp;
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer" style="margin: 10px 10px 0 0;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.prisma.io/" target="_blank" rel="noreferrer" style="margin: 10px 10px 0 0;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg" alt="Prisma" width="40" height="40"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
   <!-- Tools -->
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer" style="margin: 10px 10px 0 0;">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
