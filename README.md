@@ -94,7 +94,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
   </a>
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer" style="margin: 10px 10px 0 0;">
-    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" height="40"/>
+    <img src="https://img.icons8.com/fluency/96/000000/nextjs.png" alt="Next.js" width="40" height="40" />
   </a>
   <a href="https://expressjs.com" target="_blank" rel="noreferrer" style="margin: 10px 10px 0 0;">
     <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" height="40"/>
