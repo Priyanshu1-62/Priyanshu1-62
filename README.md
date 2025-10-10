@@ -4,7 +4,7 @@
 ---
 
 - 🔭 I’m currently working on **builing an E-commerce website**  
-- 🌱 I’m currently learning **TypeScript, Next.js, Zustand**  
+- 🌱 I’m currently learning **DevOps, Zustand**  
 - 👯 I’m looking to collaborate on **MERN-stack projects**
 
 ---
