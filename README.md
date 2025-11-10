@@ -147,6 +147,18 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
   </a>
   &nbsp;&nbsp;&nbsp;
+  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer" style="margin: 10px 10px 0 0;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+<a href="https://aws.amazon.com/ecs/" target="_blank" rel="noreferrer" style="margin: 10px 10px 0 0;">
+  <img src="https://www.svgrepo.com/download/448716/amazon-ecs.svg" alt="Amazon ECS" width="40" height="40"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+  <a href="https://aws.amazon.com/fargate/" target="_blank" rel="noreferrer" style="margin: 10px 10px 0 0;">
+    <img src="https://logo.svgcdn.com/logos/aws-fargate.svg" alt="AWS Fargate" width="40" height="40"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://ubuntu.com/" target="_blank" rel="noreferrer" style="margin: 10px 10px 0 0;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-original.svg" alt="Ubuntu" width="40" height="40"/>
   </a>
