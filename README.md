@@ -107,6 +107,10 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
   </a>
   &nbsp;&nbsp;&nbsp;
+  <a href="https://redux-toolkit.js.org/" target="_blank" rel="noreferrer" style="margin: 10px 10px 0 0;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux Toolkit" width="40" height="40"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer" style="margin: 10px 10px 0 0;">
     <img src="https://img.icons8.com/fluency/96/000000/nextjs.png" alt="Next.js" width="40" height="40" />
   </a>
