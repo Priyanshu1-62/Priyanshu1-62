@@ -198,7 +198,6 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=priyanshu1-62&theme=ambient_gradient&hide_border=false" width="48%" />
   <img src="https://nirzak-streak-stats.vercel.app/?user=priyanshu1-62&theme=ambient_gradient&hide_border=false" width="48%" /><br/>
 
 </p>
