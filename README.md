@@ -194,18 +194,12 @@
 ---
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshu1-62&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Lang" />
-</p>
-
-<p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=priyanshu1-62&theme=ambient_gradient&hide_border=false" width="48%" /><br/>
-
 </p>
 
-
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=priyanshu1-62&theme=algolia" alt="priyanshu1-62" />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshu1-62&theme=ambient_gradient&hide_border=false&layout=compact" width="40%" />
   </a>
 </p>
 
