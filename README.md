@@ -127,15 +127,24 @@
 <td></td><td></td><td></td><td></td><td></td>
 </tr>
 </table>
+
 ---
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=priyanshu1-62&theme=ambient_gradient&hide_border=false" width="48%" /><br/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Priyanshu1-62&theme=tokyonight" /><br/>
 </p>
 
+---
+
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshu1-62&theme=ambient_gradient&hide_border=false&layout=compact" width="40%" />
-  </a>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Priyanshu1-62&theme=tokyonight" /><br/>
 </p>
+
+---
+
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Priyanshu1-62&theme=tokyonight" width="40%" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Priyanshu1-62&theme=tokyonight" width="40%" />
+</p>
+
 
