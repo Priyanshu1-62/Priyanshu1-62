@@ -311,20 +311,20 @@
 ---
 
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Priyanshu1-62&theme=tokyonight" /><br/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Priyanshu1-62&theme=tokyonight&cache_bust=1" /><br/>
 </p>
 
 ---
 
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Priyanshu1-62&theme=tokyonight" /><br/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Priyanshu1-62&theme=tokyonight&cache_bust=1" /><br/>
 </p>
 
 ---
 
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Priyanshu1-62&theme=tokyonight" width="40%" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Priyanshu1-62&theme=tokyonight" width="40%" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Priyanshu1-62&theme=tokyonight&cache_bust=1" width="40%" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Priyanshu1-62&theme=tokyonight&cache_bust=1" width="40%" />
 </p>
 
 
