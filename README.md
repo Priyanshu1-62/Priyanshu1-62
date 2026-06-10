@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Priyanshu Bariar</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=150&color=gradient&text=Hi%20👋,%20I'm%20Priyanshu&reversal=false&section=header&animation=fadeIn" />
+</p>
 <h3 align="center">Full Stack Developer | Expert @Codeforces | Knight @LeetCode | 4☆ @CodeChef | NIT Silchar-23</h3>
 
 ---
@@ -327,4 +329,9 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Priyanshu1-62&theme=tokyonight&cache_bust=1" width="40%" />
 </p>
 
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&reversal=false&section=footer&animation=fadeIn" />
+</p>
 
