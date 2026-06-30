@@ -1,7 +1,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&height=150&color=gradient&text=Hi%20👋,%20I'm%20Priyanshu&reversal=false&section=header&animation=fadeIn" />
 </p>
-<h3 align="center">Full Stack Developer | Expert @Codeforces | Knight @LeetCode | 4☆ @CodeChef | NIT Silchar-23</h3>
 
 ---
 
