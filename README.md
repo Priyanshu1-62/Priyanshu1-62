@@ -295,6 +295,18 @@
 
 ---
 
+<h3 align="left">GSSoC'2026 Badges:</h3>
+
+<p align="center">
+  <img src="./assets/gssoc/gssoc-badge-gssoc_champion.png" width="150" alt="GSSoC 2026 Champion" />
+  <img src="./assets/gssoc/gssoc-badge-elite.png" width="150" alt="GSSoC 2026 Elite" />
+  <img src="./assets/gssoc/gssoc-badge-power_contributor.png" width="150" alt="GSSoC 2026 Power Contributor" />
+  <img src="./assets/gssoc/gssoc-badge-rising_star.png" width="150" alt="GSSoC 2026 Rising Star" />
+  <img src="./assets/gssoc/gssoc-badge-building_momentum.png" width="150" alt="GSSoC 2026 Building Momentum" />
+</p>
+ 
+---
+
 <p align="center"> 
   <picture>
     <source 
