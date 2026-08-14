@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **builing an AI-Powered RFP management system**  
 - 🌱 I’m currently learning **System Design, DevOps**  
-- 👯 Open to collaborating on modern web development projects.
+- 👯 Open to collaborating on modern web development projects
 
 ---
 
