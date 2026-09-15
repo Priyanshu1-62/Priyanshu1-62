@@ -9,7 +9,7 @@
 
 ---
 
-<h3 align="left">Connect with me :</h3>
+<h3 align="left">Connect with me:</h3>
 <table align="center">
 <tr>
 <td align="center" width="60">
