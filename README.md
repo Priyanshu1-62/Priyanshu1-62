@@ -4,8 +4,8 @@
 
 ---
 
-- 🔭 I’m currently working on **builing an AI-Powered RFP management system**  
-- 👯 Open to collaborating on modern web development projects
+- 🔭 I’m currently working on **builing an AI-Powered RFP management system**.  
+- 👯 Open to collaborating on modern web development projects.
 
 ---
 
